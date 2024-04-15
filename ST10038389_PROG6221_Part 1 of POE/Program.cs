@@ -41,12 +41,4 @@ namespace ST10038389_PROG6221_Part_1_of_POE
         //</summary>
     }
 }
-//references used for the PROG6221 - PART 1 OF POE AS FOLLOWS:
-//Bruil, A., 2024. Learning Unit 2 Theme 1 to 4 - Lecture Slides_VC Learn , Cape Town: Amber Bruil.
-//Bruil, A., 2024. Learning Unit 3 Theme 1 - Lecture Slides_VC Learn, Cape Town: Amber Bruil.
-//overFlow, s., 2020. How to get scaling factor. [Online] Available at: https://stackoverflow.com/questions/60872044/how-to-get-scaling-factor-for-each-monitor-e-g-1-1-25-1-5[Accessed 3 April 2024].
-//W3schools, 2024. C# Properties (Get and Set). [Online] Available at: https://www.w3schools.com/cs/cs_properties.php[Accessed 3 April 2024].
-//overFlow, s., 2021. How to call a class from Main() method ?. [Online] Available at: https://stackoverflow.com/questions/55464556/how-to-call-a-class-from-main-method[Accessed 4 April 2024].
-//W3schools, 2024. C# Arrays. [Online] Available at: https://www.w3schools.com/cs/cs_arrays.php[Accessed 4 April 2024].
-
 //---------------------------------------------- END OF LINE --------------------------------------------------------------//
